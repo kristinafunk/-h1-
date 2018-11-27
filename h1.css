@@ -1,0 +1,48 @@
+
+  header {
+    text-align: center;
+    background-color: white;
+    color: white;
+    padding: 5px;
+  }
+
+  h1 {
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+    font-family: helvetica;
+    margin-top: 0;
+    text-align: center;
+  }
+
+header img {
+image-orientation: center;
+width: 40%;
+padding: 20px;
+padding-bottom: 0;
+
+}
+.images img {
+  width: 20%;
+  margin-right: 5%;
+}
+
+
+div {
+height: 200px;
+background-size: cover;
+position: relative;
+}
+ul {
+padding: 10px;
+background: black;
+}
+li {
+display: inline;
+padding: 0px 10px 0px 10px;
+
+}
+li a {
+color: white;
+text-align: center;
+}
