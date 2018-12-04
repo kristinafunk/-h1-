@@ -46,10 +46,10 @@ background-size: cover;
 position: relative;
 }
 
-.blockquote {
+
+.row {
   text-align: center;
 }
-
 .footer {
   font-size: 15px;
   font-weight: lighter;
