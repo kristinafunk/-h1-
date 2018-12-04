@@ -24,23 +24,37 @@ padding-bottom: 0;
 }
 .images img {
   width: 30%;
-  margin-right: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 50%;
 
 
 }
 
+form {
+  font-family: helvetica;
+  font-style: italic;
+}
 
 div {
 height: 200px;
+font-family: helvetica;
+font-weight: bolder;
+font-size: 30px;
 background-size: cover;
 position: relative;
 }
 
-.footer div{
-height: 100px;
-font-family: helvetica;
+.blockquote {
+  text-align: center;
 }
+
+.footer {
+  font-size: 15px;
+  font-weight: lighter;
+}
+
 
 ul {
 padding: 10px;
